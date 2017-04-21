@@ -1,0 +1,3 @@
+[submodule "SearchTermLib"]
+	path = SearchTermLib
+	url = https://github.com/snooky23/SearchTermLib.git
