@@ -1,2 +1,2 @@
-include ':app', ':searchapi'
-project(':searchapi').projectDir = new File('SearchTermLib/searchapi')
+include ':app', ':searchterm'
+project(':searchterm').projectDir = new File('SearchTermLib/searchterm')

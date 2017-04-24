@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/SearchTermTester.iml" filepath="$PROJECT_DIR$/SearchTermTester.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/SearchTermLib/searchapi/searchapi.iml" filepath="$PROJECT_DIR$/SearchTermLib/searchapi/searchapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchTermLib/searchterm/searchterm.iml" filepath="$PROJECT_DIR$/SearchTermLib/searchterm/searchterm.iml" />
     </modules>
   </component>
 </project>
